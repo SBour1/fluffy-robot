@@ -1,2 +1,1 @@
-# fluffy-robot
-this is a demo repo
+I didn't like the default text.
